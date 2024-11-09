@@ -18,4 +18,8 @@ markdown-learning
 4. four
 
 (CVAT WEBSITE LINK) (https://app.cvat.ai/auth/register)
-6. five
+
+# TABLE
+| NAME | ROLE | DEPARTMENT |
+|------|------|------------|
+|ABDULMALIK |M$E|MEARL UNIT|
